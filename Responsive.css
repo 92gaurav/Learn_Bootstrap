@@ -1,0 +1,308 @@
+
+@media only screen and (max-width: 600px){
+
+	.halfbody{
+
+		/*background-color: #214458;*/
+		background-image: url("https://hostbangla.com/wp-content/uploads/2016/12/website-design-background.png");
+
+
+	}
+
+	.drink_header,.pets_header,.testing_header,p,h1,h2,h3,title,b{
+
+		color: white;
+	}
+
+	h1,h2{
+	
+		border: 0px solid #214458;
+		padding: 0px;
+		margin-top: -3px;
+	
+	}  
+
+	#p01{
+
+		background-color: white;
+		color: black;
+	}
+
+	a:link{
+
+	    color: white;
+	    background-color: black;
+	    margin-left: 0%;
+	  
+	}
+
+	a:hover{
+
+		color: blue;
+		background-color: white;
+
+	}
+
+	img{
+
+
+	    margin: -16px 0px -4px 0px;
+	    margin-top: 10px;
+	    width: 319px;
+
+    }
+
+	q{
+
+      color: black;
+	}
+	li{
+
+		padding-bottom: 7px;
+		width: 303px;
+
+	}
+
+	ul,ol{
+
+		color: orange;
+		margin-bottom: -8px;
+
+	}
+
+	.beagle_text, .retrieve_text, .german_shep_text, .Husky_text{
+
+	padding: 15px;
+	width: 289px;
+
+    }
+
+    #p01{
+
+    	padding: 5px;
+    	width: 385px;
+    }
+
+	p{
+
+		margin-top: 0px;
+		width: 100%;
+	}
+
+	.tb{
+
+	    border-spacing: 13px;
+	    text-align: center!important;
+	    margin-left: 0%;
+	    border: 0.5px solid white;
+	    width: 99%;
+
+    }
+
+    .tab td{
+
+	    border: 1.5px solid black;
+	    padding: 7px;
+	    text-align: left;
+	    color: white;
+	    box-shadow: 1px 1px 1px 1px #ccc;
+
+    }
+
+    .tab1 td{
+
+
+	    border:0.5px solid white;
+	    padding: 7px;
+	    text-align: left;
+	    box-shadow: 1px 1px 1px 1px #ccc;
+	
+	
+    }
+    .tab1 tr:nth-child(even){
+
+        background-color: #d5d8dc;
+        
+        border-collapse: separate;
+	
+    }
+
+    .hotel_header,.tab1 tr:nth-child(odd) ,.tab1 tr:nth-child(odd) td{
+
+	    color: white;
+	    text-align: left;
+	   
+	
+    }
+
+    .below_text{
+
+    	margin-top: 10px;
+    }
+
+    .hotel-smallsize{
+
+    	width: 100%;
+    	height: 50%;
+
+    }
+
+    .beagle_img, .retrieve_img, .german-img, .husky_img{
+
+		margin-left: 0%;
+		margin-top: -20px;
+
+    }
+
+    .wine_drink, .tea_drink, .coffee_drink, .milk_drink{
+
+    	margin-top: -15px; 	
+
+    }
+
+    .form{
+
+    	border: 1px solid white;
+    	padding: 10px;
+
+    }
+
+    .first, .last, .countrty, .email{
+
+    	color: white;
+    	border-radius: 10%;
+
+    }
+
+    .testing_paragraph{
+
+    	background-color: white;
+    	color: red;
+    }
+
+    .coffee_color, .tea_color, .milk_color, .wine_color{
+
+    	background-color: LightGray;
+    	color: black;
+
+    }
+
+    li{
+
+		margin-top: 35px;
+		padding: 10px;
+
+	}
+
+	.linkedin_icon{
+
+		background: #007bb5!important;
+    	color: white!important;
+    	padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 76px!important;
+		border-radius: 50%;
+
+
+	}
+
+	.twitter_icon{
+
+		background: #55ACEE!important;
+    	color: white!important;
+   		padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 76px!important;
+		border-radius: 50%;
+
+
+	}
+
+	.facebook_icon{
+
+		background: #3B5998!important;
+    	color: white!important;
+   		padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 76px!important;
+		border-radius: 50%;
+
+
+	}
+
+	.google_icon{
+
+		background: #dd4b39!important;
+    	color: white!important;
+   		padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 222px!important;
+		border-radius: 50%;
+
+	}
+
+
+
+
+
+
+
+    .beagle_img{
+
+    	position: relative;
+  		width: 50%;
+
+    }
+
+    .img{
+
+    	position: relative;
+  		width: 50%;
+
+    }
+
+    .hover_scale{
+
+    	position: absolute;
+  		top: 0;
+  		bottom: 0;
+  		left: 0;
+  		right: 0;
+  		height: 100%;
+  		width: 100%;
+  		opacity: 0;
+  		transition: .5s ease;
+  		background-color: #008CBA;
+
+    }
+
+    .beagle_img:hover .hover.scale{
+
+    	opacity: 1;
+  
+}
+
+    .hover_text{
+
+    	color: white;
+  		font-size: 20px;
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		-ms-transform: translate(-50%, -50%);
+
+    }
+
+    
+
+
+}

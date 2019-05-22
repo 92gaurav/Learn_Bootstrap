@@ -1,0 +1,93 @@
+
+.mountain{
+
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mountain_text{
+
+	text-align: center;
+	
+	color: white;
+	top: 38%;
+	bottom: 31%;
+	width: 61%;
+	
+	transform: translate(32%, -3%);
+
+}
+
+.book_button{
+
+	margin-top: 6%;
+	opacity: 1.1;
+
+}
+
+.book_button:hover{
+
+	background-color: #99FF00;
+	color: black;
+
+}
+
+.img_1{
+
+	background-image: url("/home/oci/Desktop/All Projects/Learning Html/cardimage1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -8px;
+
+}
+
+.img_2{
+
+	background-image: url("/home/oci/Desktop/All Projects/Learning Html/cardimage2.jpg");
+	background-repeat: no-repeat;
+	margin-top: -8px;
+
+}
+
+.img_3{
+
+	background-image: url("/home/oci/Desktop/All Projects/Learning Html/cardimage3.jpg");
+	background-repeat: no-repeat;
+	margin-top: -8px;
+	
+}
+
+.img_1:hover, .img_2:hover, .img_3:hover, .card-body:hover{
+
+	
+	box-shadow: 10px 10px 5px grey;
+
+}
+
+.our_partner{
+
+	padding: 1%;
+	color: #fff;
+	background-color: #564f4a;
+	margin-top: 1%;
+
+}
+
+.card-body{
+
+	margin-top: 54%;
+	text-align: center;
+
+}
+
+.hotel_text1{[
+
+	width: 100%;
+
+}
+
+.rate_button{
+
+	background-color: #564f4a;
+
+}

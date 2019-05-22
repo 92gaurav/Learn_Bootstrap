@@ -1,0 +1,279 @@
+@font-face{
+
+	font-family: myFirstFont;
+    src: url(sansation_light.woff);
+
+}   
+
+.testing_header{
+	color: red;
+    font-family: myFirstFont;
+    font-size: 34px;
+    	                 
+
+
+}
+
+.testing_paragraph{
+
+	color: red;
+    font-family: myFirstFont;
+    font-size: 20px;
+	                    
+}
+
+.hotel_header{
+
+	color: #00bfff
+
+}
+
+.drink_header{
+
+	color: brown
+
+}
+
+.pets_header{
+
+	color: #f57d24
+
+}
+
+h1,h2{
+
+
+	
+	padding: 0px;
+	      
+}	      
+  
+.beagle_text, .retrieve_text, .german_shep_text, .Husky_text{
+
+	background-color: 
+
+}
+
+#p01{
+
+	color: blue;
+
+}
+
+a:link{
+
+	color: green;
+	background-color: orange;
+	text-decoration: none; 
+
+}
+
+a:visited{
+
+    color: red;
+	background-color: white ;
+	text-decoration: none;
+
+}
+
+a:hover{
+
+	color: blue;
+	background-color: none;
+	text-decoration: none;
+	      
+}
+
+a:active{
+
+	color: black;
+	background-color: yellow;
+	text-decoration: none;
+
+}
+
+.tab td{
+
+
+	border: 0.5px solid #76b190;
+	padding: 7px;
+	text-align: left;
+	color: white;
+
+}
+
+.tb{
+	border-spacing: 13px;
+	text-align: center!important;
+	margin-left: 34%;
+	border: 0.5px solid #000;
+
+}
+
+.tab th{
+	color:white;
+}
+
+.cap{
+
+	text-align: center;
+	padding: 1%;
+	margin-top: -1%;
+	font-size: 18px;
+}
+
+.tab1 td{
+
+	border:0.5px solid blue;
+	padding: 7px;
+	text-align: left;
+	color: black;
+	
+}
+.tab1 tr:nth-child(even){
+
+	background-color: #d5d8dc;
+}
+
+.hotel-smallsize{
+
+
+    width: 30%;
+    height: 15%;
+    margin-left: 0px;
+
+    }
+
+.halfbody{
+
+	background-color: white;
+
+}
+
+.beagle_img, .retrieve_img, .german-img, .husky_img{
+
+	margin-left: 35%;
+
+}
+
+li{
+
+	margin-top: 15px;
+	padding: 10px;
+}
+p{
+
+	margin-top: 0px;
+
+}
+
+.beagle_text, .retrieve_text, .german_shep_text, .Husky_text{
+
+	padding: 5px;
+
+}
+
+.beagle_img{
+
+    	position: relative;
+  		width: 49%;
+
+    }
+
+    .b_hover_layer{
+
+    	display: block;
+  		width: 100%;
+  		height: auto;
+
+    }
+
+    .hover_scale{
+
+    	position: absolute;
+  		top: 0;
+  		bottom: 0;
+  		left: 0;
+  		right: 0;
+  		height: 100%;
+  		width: 50%;
+  		opacity: 0;
+  		transition: .5s ease;
+  		background-color: #000;
+
+    }
+
+    .beagle_img:hover, .hover.scale{
+
+    	opacity: 1;
+  
+}
+
+    .hover_text{
+
+    	color: white;
+  		font-size: 20px;
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		transform: translate(-50%, -50%);
+  		-ms-transform: translate(-50%, -50%);
+
+    }
+
+    .linkedin_icon{
+
+		background: #007bb5!important;
+    	color: white!important;
+    	padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 136px!important;
+		border-radius: 50%;
+
+
+	}
+
+	.twitter_icon{
+
+		background: #55ACEE!important;
+    	color: white!important;
+   		padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 136px!important;
+		border-radius: 50%;
+
+
+	}
+
+	.facebook_icon{
+
+		background: #3B5998!important;
+    	color: white!important;
+   		padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 136px!important;
+		border-radius: 50%;
+
+
+	}
+
+	.google_icon{
+
+		background: #dd4b39!important;
+    	color: white!important;
+   		padding: 8px!important;
+		width: 25px!important;
+		text-align: center!important;
+		font-size: 20px!important;
+		margin-left: 213px!important;
+		border-radius: 50%;
+
+	}
+
+

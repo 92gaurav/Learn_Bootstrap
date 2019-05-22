@@ -1,0 +1,226 @@
+font-family: Arial, Verdana, sans-serif, Monospace,  Inconsolata ;
+
+
+.full_body{
+
+	background-color: #FFFFFF;
+
+}
+
+.mountain{
+
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+
+}
+
+.mountaincalling_text{
+
+	font-size: 60px;
+
+}
+.collection{
+
+	margin-top: 20px;
+
+}
+
+.collection_color{
+
+	background-color: ;
+
+}
+
+.collectionimage_1:hover, .collectionimage_2:hover, .collectionimage_3:hover, .collectionimage_4:hover, .collectionimage_5:hover{
+
+	transform: scale(1.03);
+	box-shadow:rgb(66, 61, 66) 0px 0px 17px -2px;
+
+}
+
+.moments_text{
+
+	font-family: monospace;
+
+}
+
+.gal-item{
+	overflow: hidden;
+	padding: 8px;
+}
+.gal-item .box{
+	height: 100%;
+	overflow: hidden;
+}
+.box img{
+	height: 100%;
+	width: auto;
+	object-fit:cover;
+}
+
+.mountain_text{
+
+	text-align: center;
+	top: 38%;
+	bottom: 31%;
+	width: 61%;
+	transform: translate(32%, -3%);
+
+}
+
+.ourpartner_background{
+
+
+
+}
+
+.mountain_opacity{
+
+	
+	color: white;
+
+}
+
+.bar_content{
+
+	margin-top: 20px;
+	font-family: Monospace;
+
+}
+
+.book_button{
+
+	margin-top: 6%;
+	opacity: 1!important;
+	background-color: #564f4a!important;
+	border-color: #564f4a!important;
+
+}
+
+.book_button:hover, .search_button:hover{
+
+	background-color: white!important;
+	border-color: #564f4a!important;
+	color: #564f4a!important;
+
+}
+
+.traditions_text{
+
+	padding: 45px;
+
+}
+
+.bar_heading{
+
+	border-style: dashed;
+	font-family: Monospace;
+	background-color: #837E7C;
+	color: white;
+
+}
+
+
+.card_fullbody:hover{
+	
+	transform: scale(1.03);
+	box-shadow:rgb(66, 61, 66) 0px 0px 17px -2px;
+	margin-bottom: 12px;
+
+}
+
+.card_fullbody{
+
+	margin-bottom: 12px;
+
+}
+
+.eventbox_text{
+
+	margin-top: 25px;
+
+}
+
+.circle-content{
+
+	margin-top: 20px;
+
+}
+
+.our_partner{
+
+	padding: 1%;
+	color: #564f4a;
+	
+	margin-top: 1%;
+	font-family: Monospace;
+
+}
+
+.hotel_text1{
+
+	width: 100%;
+	padding-bottom: 10px;
+
+}
+
+.rate_button{
+
+	color: white!important;
+	background-color: #564f4a!important;
+
+}
+.event_text{
+
+	margin-top: 22px;
+	margin-left: 42%;
+}
+
+.mountain_logoimage{
+
+	margin-left: 1%;
+
+}
+
+.event_logo{
+
+	margin-top: 25px;
+
+}
+
+.footer_color{
+
+	background-color: #343a40;
+
+}
+
+.footer_body{
+
+	background-color: #343a40;
+	color: white;
+	margin-top: 35px;
+
+}
+
+.footer_lasttext{
+
+	margin-left: 40%;
+
+}
+
+.hotel_link, .accoutn_link, .footer_link{
+
+	color: white!important;
+
+}
+
+.hotel_link:hover, .account_link:hover, .footer_link:hover{
+
+	color: #007bff!important;
+
+}
+
+
+
+

@@ -1,0 +1,23 @@
+@media (min-width: 313px) and (max-width: 600px) { 
+
+
+.mountain_quotestext{
+
+	display: none;
+
+}
+
+.event_text {
+
+    margin-left: 29%;
+
+}
+
+.footer_lasttext {
+
+    margin-left: 0%;
+
+}
+
+
+}
